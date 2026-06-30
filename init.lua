@@ -26,6 +26,7 @@ do
   require 'plugins.todo'
   require 'plugins.treesitter'
   require 'plugins.whichkey'
+  require 'plugins.neogit'
 end
 
 -- The line beneath this is called `modeline`. See `:help modeline`
